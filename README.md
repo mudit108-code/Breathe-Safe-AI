@@ -34,8 +34,8 @@
 ## 🚀 Local Setup
 
 ```bash
-git clone 
-cd 
+git clone https://github.com/mudit108-code/Breathe-Safe-AI
+cd Breathe-Safe-AI
 
 pip install -r requirements.txt
 
